@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sastreriaconfeccionesaquino/static/css/main.fb8e88fa.css",
-    "main.js": "/sastreriaconfeccionesaquino/static/js/main.82537bc7.js",
+    "main.js": "/sastreriaconfeccionesaquino/static/js/main.53783606.js",
     "static/js/453.06b3b901.chunk.js": "/sastreriaconfeccionesaquino/static/js/453.06b3b901.chunk.js",
     "static/media/AQUINO-1.png": "/sastreriaconfeccionesaquino/static/media/AQUINO-1.142a79a40d5ace467302.png",
     "static/media/AQUINO-7.png": "/sastreriaconfeccionesaquino/static/media/AQUINO-7.ba2c7a63b4f7cef5ea81.png",
@@ -23,11 +23,11 @@
     "static/media/CustomerOne.jpg": "/sastreriaconfeccionesaquino/static/media/CustomerOne.5c526e79e14ddde6ede9.jpg",
     "index.html": "/sastreriaconfeccionesaquino/index.html",
     "main.fb8e88fa.css.map": "/sastreriaconfeccionesaquino/static/css/main.fb8e88fa.css.map",
-    "main.82537bc7.js.map": "/sastreriaconfeccionesaquino/static/js/main.82537bc7.js.map",
+    "main.53783606.js.map": "/sastreriaconfeccionesaquino/static/js/main.53783606.js.map",
     "453.06b3b901.chunk.js.map": "/sastreriaconfeccionesaquino/static/js/453.06b3b901.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb8e88fa.css",
-    "static/js/main.82537bc7.js"
+    "static/js/main.53783606.js"
   ]
 }

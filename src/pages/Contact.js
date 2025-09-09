@@ -20,7 +20,6 @@ const t = {
         phoneLabel: "Business Phone",
         phone2Label: "Alternate Phone",
         addressLabel: "Address",
-        websiteLabel: "Website",
         scanTitle: "Scan to add contact",
         scanHelp: "Open your phone’s Camera and point at the code.",
         qrAlt: "QR code to add Aquino Tailor contact",
@@ -33,7 +32,6 @@ const t = {
         phoneLabel: "Teléfono",
         phone2Label: "Teléfono alterno",
         addressLabel: "Dirección",
-        websiteLabel: "Sitio web",
         scanTitle: "Escanea para agregar contacto",
         scanHelp: "Abre la cámara de tu teléfono y apunta al código.",
         qrAlt: "Código QR para agregar el contacto de Aquino Tailor",
@@ -98,18 +96,6 @@ export default function Contact({ lang = "en", setLang }) {
                                 rel="noopener noreferrer"
                             >
                                 {ADDRESS_DISPLAY}
-                            </a>
-                        </div>
-
-                        <div className="contact__block">
-                            <div className="contact__label">{L.websiteLabel}</div>
-                            <a
-                                className="contact__value contact__website"
-                                href={SITE_URL}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                {SITE_URL.replace(/^https?:\/\//, "")}
                             </a>
                         </div>
                     </div>

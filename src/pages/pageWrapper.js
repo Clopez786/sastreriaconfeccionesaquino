@@ -86,7 +86,6 @@ const PageWrapper = () => {
                 {/* pass lang down */}
                 <Routes>
                     <Route path="/" element={<Home lang={lang} />} />
-                    <Route path="/sastreriaconfeccionesaquino" element={<Home lang={lang} />} />
                     <Route path="/about" element={<About lang={lang} setLang={setLang} />} />
                     <Route path="/services" element={<Services lang={lang} />} />
                     <Route path="/gallery" element={<Gallery lang={lang} />} />

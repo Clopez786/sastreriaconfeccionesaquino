@@ -46,7 +46,7 @@ const MobileSlideShow = (lang = 'en') => {
 
         return () => clearInterval(interval);
 
-    }, []);
+    });
     return (
         <div className="mobile-slideshow">
             {slides.map((content, index) => (
